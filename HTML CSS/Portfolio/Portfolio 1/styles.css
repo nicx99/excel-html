@@ -1,0 +1,40 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    font-family: cursive, arial, sans-serif;
+    color: firebrick;
+}
+
+h2 {
+    font-family:cursive, monospace, sans-serif;
+    color: firebrick;
+}
+
+h3 {
+    font-family:cursive, monospace, sans-serif;
+    color: firebrick;
+}
+p {
+    font-family:Century Schoolbook, verdana, sans-serif;
+    text-align:justify;
+    line-height: 20px;
+    border-style:solid;
+    border-width:thick;
+    border-color:saddlebrown;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-family: cursive, arial, sans-serif;
+}
+
+li {
+    font-family:cursive, monospace, sans-serif;
+}
+
+
+
