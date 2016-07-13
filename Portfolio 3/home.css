@@ -1,0 +1,364 @@
+body, html{
+    margin: 0px;
+}
+#header{
+    width: 100%;
+    height: 37px;
+    background-color: black;
+    padding-left: 600px;
+    padding-top; 0px;
+    float: left;
+}
+
+#nav{
+    width:600px;
+    height:40px;
+    background-color: black;
+    padding-top: 0px;
+    margin-top: -15px;
+    float: left;
+}
+
+ul {
+    list-style: none;
+}
+
+.n1 {
+    font-weight: bolder;
+    font-family: garamond;
+    font-size: 16px;
+    margin-left: 40px;
+    color: white;
+    float: left;    
+}
+
+.n2 {
+    font-size: 8px;
+    margin-top:0px;
+}
+#body{
+    width:800px;
+    height:750px;
+    background-color: yellow;
+    margin:auto;
+}
+
+#row1 {
+    width: 100%;
+    height: 250px;
+    background: white;
+    
+    
+}
+
+#r1left {
+    width: 65%;
+    height: 100%;
+    background: white;
+    float: left;
+}
+
+
+#r1right {
+    width: 30%;
+    height: 100%;
+    background: white;
+    float: left;
+    margin-left: 5%;
+}
+
+#row2 {
+    width: 100%;
+    height: 250px;
+    background: white;
+}
+
+#row3 {
+    width: 100%;
+    height: 250px;
+    background: white;
+}
+
+#r1left img {
+    width: 100%;
+    height: 170px;
+}
+
+#r1left h3 {
+    font-family: garamond;
+    font-weight: bolder:
+    color: gray;
+    text-align: center;
+}
+
+#r1right .being {
+    font-family: garamond;
+    font-size: 25px;
+    
+}
+
+#r1right #creative {
+    color: chocolate;
+    font-family: garamond;
+    font-size: 50px;
+}
+
+#r1right p{
+    
+    line-height: 25px;
+}
+
+.p1 {
+    font-family: calibri;
+    font-size: 14px;
+    text-align: justify;
+    margin-top: -5px;
+}
+
+#r2left {
+    width: 65%;
+    height: 100%;
+    background: white;
+    float: left;
+}
+#r2right {
+    width: 30%;
+    height: 100%;
+    background: white;
+    float: right;
+}
+
+#r2right .being {
+    font-family: garamond;
+    font-size: 25px;
+    
+}
+
+#r2right #clever {
+    color: orange;
+    font-family: garamond;
+    font-size: 50px;
+}
+
+#r2right p{
+    line-height: 25px;
+}
+
+#r2left p {
+    line-height: 25px;
+    font-size: 20px;
+    font-family: calibri,garamond, sans-serif;
+    text-align: justify;
+}
+
+#r3left {
+    width: 65%;
+    height: 100%;
+    background: white;
+    float: left;
+}
+#r3right {
+    width: 30%;
+    height: 100%;
+    background: white;
+    float: right;
+}
+
+#r3right .being {
+    font-family: garamond;
+    font-size: 25px;
+    
+}
+
+#r3right #fun {
+    color: mediumseagreen;
+    font-family: garamond;
+    font-size: 50px;
+}
+
+#r3right p{
+    line-height: 25px;
+}
+
+#r3left p {
+    line-height: 25px;
+    font-size: 20px;
+    font-family: calibri,garamond, sans-serif;
+    text-align: justify;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+#nav .n1:hover {
+    background-color: lightslategrey;  
+}
+
+a:active {
+    text-decoration: none;
+}
+
+#headerleft {
+    height: 37px;
+    width: 300px;
+    margin-left: -285px;
+    float: left;
+    background-color: black;
+}
+
+#headerright {
+    float: left;
+}
+
+
+#arow1 {
+    width: 100%;
+    height: 250px;
+    background-color: white;
+}
+
+#arow1left {
+    width: 30%;
+    height: 213px;
+    background-color: white;
+    float: left;
+}
+
+#arow1right {
+    width: 65%;
+    height: 213px;
+    background-color: white;
+    float: left;
+    margin-left: 5%;
+}
+
+#pabt {
+    font-family: garamond;
+    font-size: 60px;
+    margin-top: 0px;
+}
+
+#pbw {
+    font-family: garamond;
+    font-size: 40px;
+    margin-top: -75px;
+    color: grey;
+}
+
+#parow1right {
+    font-family: garamond;
+    font-size: 18px;
+}
+
+#arow2 {
+    width 100%;
+    height: 500px;
+    background-color: white;
+    
+    padding-top: 40px;
+}
+
+#arow2left {
+    width: 30%;
+    height: 100%;
+    background-color: white;
+    float: left;
+}
+
+#arow2right {
+    width: 65%;
+    height: 100%;
+    background-color: white;
+    float: left;
+    margin-left: 5%;
+    margin-top:-40px;
+}
+
+#ptt {
+    font-family: garamond;
+    font-size: 40px;
+    margin-top: 80px;
+    margin-bottom: 0px;
+    color: grey;
+}
+
+.pfont {
+    font-family: garamond;
+    font-size: 18px;
+}
+
+#ftlb {
+    font-family: garamond;
+    font-size: 44px;
+    color: chocolate;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#bullet {
+    list-style-type: inherit;
+    line-height: 50px;
+}
+
+#listspace {
+    line-height: 20px;
+}
+
+#getin {
+    font-family: garamond;
+    font-size: 40px;
+    color: grey;
+    margin-top: 5px;
+    margin-bottom: -10px;
+}
+
+#touch {
+    font-family: garamond;
+    font-size: 60px;
+    margin-top: 0px;
+    margin-bottom: 80px;
+}
+
+
+#pheight {
+    font-family: garamond;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: 15px;
+    color: grey;
+}
+
+#emaillink {
+    color: black;
+}
+
+#pemail {
+    margin-top: -40px;
+    font-family: garamond;
+}
+
+#pschedule {
+    font-family: garamond;
+    font-size: 40px;
+    margin-top: -40px;
+    margin-bottom: -30px;
+    color: grey;
+}
+
+.tablefont {
+    font-family: garamond;
+    font-size: 14px;
+}
+
+#btnsend {
+    background-color: black;
+    color: white;
+    font-family: garamond;
+}
